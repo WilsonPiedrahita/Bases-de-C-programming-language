@@ -1,0 +1,4 @@
+#!/usr/bin/bash
+export CFILE=main.c
+gcc -S $CFILE 
+
